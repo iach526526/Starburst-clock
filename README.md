@@ -1,7 +1,7 @@
 # Starburst-clock
 > Fast, Even FASTER, set a starburst alarm!
 
-<div style="text-align :center">
+<div align="center">
 
 ![demo img](./img/Thumbnail.png)
 </div>
